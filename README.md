@@ -1,2 +1,1 @@
-# Project24Template
-CrumpledPaper1
+# CrumpledPaper
